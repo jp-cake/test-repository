@@ -1,5 +1,6 @@
 # My very first repo
-Test... test... 
+### Let's see how it goes!
 
+Testing out making a bunch of changes and uploading via Terminal.
 
-This is a new line here
+So far so good...
